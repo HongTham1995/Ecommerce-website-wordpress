@@ -51,14 +51,18 @@ Website mô phỏng quy trình bán hàng online gồm: hiển thị sản phẩ
 
 ### 📌 Trang chủ
 
-#### Đầu trang
-<img width="939" height="428" alt="home-header" src="https://github.com/user-attachments/assets/398a66bc-8b4e-4b40-b2a7-9db99d572619" />
+  #### Đầu trang
+  <img width="939" height="428" alt="home-header" src="https://github.com/user-attachments/assets/398a66bc-8b4e-4b40-b2a7-9db99d572619" />
+  
+ <br><br>
+ 
+  #### Thân trang
+  <img width="946" height="450" alt="home-body" src="https://github.com/user-attachments/assets/50579fa5-bb59-42b9-a808-73825f67ff13" />
 
-#### Thân trang
-<img width="946" height="450" alt="home-body" src="https://github.com/user-attachments/assets/50579fa5-bb59-42b9-a808-73825f67ff13" />
-
-#### Chân trang
-<img width="946" height="454" alt="home-footer" src="https://github.com/user-attachments/assets/3aaa4c42-73b8-4a7a-bc84-3dcee86ab3fa" />
+   <br><br>
+ 
+  #### Chân trang
+  <img width="946" height="454" alt="home-footer" src="https://github.com/user-attachments/assets/3aaa4c42-73b8-4a7a-bc84-3dcee86ab3fa" />
 
 ---
 
